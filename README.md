@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a creative person with passion for technology and coding!
 
 <!--
 **malteasmuth/malteasmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
