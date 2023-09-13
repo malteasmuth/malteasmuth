@@ -2,6 +2,8 @@
 
 After three years in academic publishing, I followed my passion for technology and software development and enrollend in the web development bootcamp @lewagon. Many challenges and a final project later, I'm still in love with coding and look forward to all the amazing things there are still to learn. Next on the list is a deep dive into C! ✨
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/malteasmuth/) and send me your favorite C challenge.
+
 ----
 ## What I learned @lewagon:
 
