@@ -5,11 +5,14 @@ After three years in academic publishing, I followed my passion for technology a
 ----
 ## What I learned @lewagon:
 
-- Ruby on Rails
+- Ruby
 - SQL
+- ActiveRecord
 - JavaScript
 - HTML/ CSS
-- Stimulus
+- Regexp
+
+- Frameworks: Ruby on Rails, Stimulus
 
 Have a look at our [AirBnB-Clone](https://github.com/malteasmuth/MySpaceShip) or our [final project](https://github.com/malteasmuth/TreasureKeeper)!
 
