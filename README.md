@@ -22,6 +22,7 @@ Have a look at our [AirBnB-Clone](https://github.com/malteasmuth/MySpaceShip) or
 
 ## My projects in C:
 - [simple-banking](https://github.com/malteasmuth/simple-banking)
+- [my solutions to the problems from "The C programming language" (Kernighan/Ritchie)](https://github.com/malteasmuth/learn-c-dr-chuck-tutorial) 
 
 ----
 
