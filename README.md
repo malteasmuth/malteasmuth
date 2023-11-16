@@ -16,7 +16,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/malteasmuth/) and send
 
 - Frameworks: Ruby on Rails, Stimulus
 
-Have a look at our [AirBnB-Clone](https://github.com/malteasmuth/MySpaceShip) or our [final project](https://github.com/malteasmuth/TreasureKeeper)!
+Have a look at our [final project](https://github.com/malteasmuth/TreasureKeeper)!
 
 ----
 
