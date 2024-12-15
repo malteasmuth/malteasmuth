@@ -1,10 +1,20 @@
 ### Hello! 👋
 
-After three years in academic publishing, I am now following my passion for technology and software development and recently graduated from the web development bootcamp @lewagon. Many challenges and a final project later, I'm still in love with coding and look forward to all the amazing things there are still to learn. Next on the list is a deep dive into C! ✨
+After three years in academic publishing, I am now following my passion for technology and software development. I have since graduated from the web development bootcamp @lewagon before continuing my learning journey as a trainee in software development with Java @Dataciders InmediasP. I'm still in love with coding and look forward to all the amazing things there are still to learn and projects to build.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/malteasmuth/) and send me your favorite C challenge.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/malteasmuth/) and send me your favorite coding challenge.
 
 ----
+
+## What I learned @Dataciders InMediasP
+
+- Java Spring Boot
+- React w/ Typescript
+- databases and normalization
+- SOLID (🤔) fundamentals of software architecture and clean code
+- even more collaboration tools
+- networking, algorithms and more
+
 ## What I learned @lewagon:
 
 - Ruby
@@ -12,7 +22,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/malteasmuth/) and send
 - ActiveRecord
 - JavaScript
 - HTML/ CSS
-- Regexp
+- Regex
 
 - Frameworks: Ruby on Rails, Stimulus
 
